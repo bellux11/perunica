@@ -1,1 +1,0 @@
-document.querySelectorAll('a[href="#"]').forEach(a=>a.onclick=e=>e.preventDefault());
